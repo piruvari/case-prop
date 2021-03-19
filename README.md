@@ -1,3 +1,3 @@
 # case-prop
 
-analise dos dados de propiedades. E envio de emails automatico
+analise dos dados de propiedades que se encontram no bigquery. E envio de emails automatico
